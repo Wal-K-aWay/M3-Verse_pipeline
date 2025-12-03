@@ -1,0 +1,14 @@
+ai2thor
+psutil
+shapely
+matplotlib
+numpy
+pillow
+tqdm
+opencv-python
+torch
+torchvision
+transformers
+huggingface_hub
+dashscope
+openai

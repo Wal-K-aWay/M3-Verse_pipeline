@@ -1,0 +1,50 @@
+{
+  "agent_explore": {
+    "longest_stay_room": {
+      "question_template": "In which room did the observer stay for the longest time among {state1} and {state2}?"
+    },
+    "shortest_stay_room": {
+      "question_template": "In which room did the observer stay for the shortest time among {state1} and {state2}?"
+    },
+    "cross_state_longest_room_comparison": {
+      "question_template": "Among the following options, which state-room combination had the longest observation time?"
+    },
+    "cross_state_shortest_room_comparison": {
+      "question_template": "Among the following options, which state-room combination had the shortest observation time?"
+    },
+    
+    "room_visit_count_comparison": {
+      "question_template": "Which room was visited more times in {state1} compared to {state2}?"
+    },
+
+    "total_room_visits": {
+      "question_template": "How many times did the observer visit {room} in total across {state1} and {state2}?"
+    },
+    "object_observation_comparison": {
+      "question_template": "Which object was observed for a longer total time across {state1} and {state2}?"
+    },
+
+    "rooms_visited_both_states": {
+      "question_template": "Which rooms were visited in both {state1} and {state2}?"
+    },
+    "rooms_visited_only_state1": {
+      "question_template": "Which rooms were visited only in {state1} but not in {state2}?"
+    },
+    "rooms_visited_only_state2": {
+      "question_template": "Which rooms were visited only in {state2} but not in {state1}?"
+    },
+    
+    "nth_mth_visit_room_type": {
+      "question_template": "Do the {visit1_order} visited room in the {state1} video and the {visit2_order} visited room in the {state2} video have the same type? If not, what are their respective types?"
+    },
+    "nth_mth_visit_room_shape": {
+      "question_template": "Do the {visit1_order} visited room in the {state1} video and the {visit2_order} visited room in the {state2} video have the same shape? If not, what are their respective shapes?"
+    },
+    "nth_mth_visit_room_size": {
+      "question_template": "Which room has a larger area: the {visit1_order} visited room in the {state1} video or the {visit2_order} visited room in the {state2} video? And approximately what percentage larger is it?"
+    },
+    "nth_mth_visit_room_same": {
+      "question_template": "Are the {visit1_order} visited room in the {state1} video and the {visit2_order} visited room in the {state2} video the same room?"
+    }
+  }
+}

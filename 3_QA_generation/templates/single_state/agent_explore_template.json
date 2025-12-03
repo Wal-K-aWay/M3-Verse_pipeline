@@ -1,0 +1,46 @@
+{
+  "agent_explore": {
+    "room_visit_order": {
+      "question_template": "Which rooms were visited after {room} at {state}?"
+    },
+    "object_observation_longest": {
+      "question_template": "Which object was observed for the longest time at {state}?"
+    },
+    "object_observation_shortest": {
+      "question_template": "Which object was observed for the shortest time at {state}?"
+    },
+    "room_longest_time": {
+      "question_template": "In which room did the observer stay for the longest time at {state}?"
+    },
+    "room_shortest_time": {
+      "question_template": "In which room did the observer stay for the shortest time at {state}?"
+    },
+    "object_first_appearance_earliest": {
+      "question_template": "Among the following objects, which one was first observed earliest at {state}?"
+    },
+    "object_first_appearance_latest": {
+      "question_template": "Among the following objects, which one was first observed latest at {state}?"
+    },
+    "object_last_appearance_earliest": {
+      "question_template": "Among the following objects, which one was last observed earliest at {state}?"
+    },
+    "object_last_appearance_latest": {
+      "question_template": "Among the following objects, which one was last observed latest at {state}?"
+    },
+    "room_visit_count": {
+      "question_template": "How many times did the observer visit {room} at {state}?"
+    },
+    "nth_visit_room_area": {
+      "question_template": "What is the area of the room {visit_order} visited at {state}?"
+    },
+    "nth_visit_room_type": {
+      "question_template": "What is the type of the room {visit_order} visited at {state}?"
+    },
+    "nth_visit_room_shape": {
+      "question_template": "What is the shape of the room {visit_order} visited at {state}?"
+    },
+    "nth_visit_room_objects": {
+      "question_template": "Which objects are observed in the room {visit_order} visited at {state}?"
+    }
+  }
+}

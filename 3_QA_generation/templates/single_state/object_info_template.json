@@ -1,0 +1,43 @@
+{
+  "object_info": {
+    "object_distance_estimation": {
+      "question_template": "What is the distance between {object1} and {object2} at {state}?"
+    },
+    "object_distance_shortest_comparison": {
+      "question_template": "Which object is closer to {object} at {state}?"
+    },
+    "object_distance_longest_comparison": {
+      "question_template": "Which object is farthest from {object} at {state}?"
+    },
+    "object_shape": {
+      "question_template": "What is the shape of {object_id} at {state}?"
+    },
+    "object_material": {
+      "question_template": "What material is {object_id} at {state} made of?"
+    },
+    "object_color": {
+      "question_template": "What color is {object_id} at {state}?"
+    },
+    "object_height": {
+      "question_template": "What is the height of {object_id} at {state}?"
+    },
+    "object_length": {
+      "question_template": "What is the length of {object_id} at {state}?"
+    },
+    "object_room_location": {
+      "question_template": "In which room is {object_id} located at {state}?"
+    },
+    "object_type_num_in_room": {
+      "question_template": "How many {object_type} are there in {room_name} at {state}?"
+    },
+    "object_type_num_in_scene": {
+      "question_template": "How many {object_type} are there in the entire scene at {state}?"
+    },
+    "object_receptacle_location": {
+      "question_template": "What is {object_id} placed on at {state}?"
+    },
+    "receptacle_contents": {
+      "question_template": "What objects are in {receptacle_id} at {state}?"
+    }
+  }
+}

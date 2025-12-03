@@ -1,0 +1,97 @@
+{
+  "object_changes": {
+    "movement_distance": {
+      "question_template": "How far was the {object_name} moved from {state1} to {state2}?"
+
+    },
+
+    "old_receptacle": {
+      "question_template": "Where was {object} at {state1} located at {state2}?"
+
+    },
+    "new_receptacle": {
+      "question_template": "Where is {object} at {state2} located at {state1}?"
+
+    },
+    "movement_between_receptacles": {
+      "question_template": "Where did {object} move from {state1} to {state2}?"
+
+    },
+
+    "new_visible_objects": {
+      "question_template": "Which objects became visible between {state1} and {state2}?"
+
+    },
+    "lost_visible_objects": {
+      "question_template": "Among {state1} and {state2}, which objects are no longer visible?"
+
+    },
+
+    "objects_room_movement": {
+      "question_template": "Which of the following objects changed rooms between {state1} and {state2}?"
+
+    },
+
+
+    "longest_observed_object_type": {
+      "question_template": "Among {state1} and {state2}, which object has the longest total observation time?"
+
+    },
+    "shortest_observed_object_type": {
+      "question_template": "Among {state1} and {state2}, which object has the shortest total observation time?"
+
+    },
+    "largest_diff_observation_time": {
+      "question_template": "Among {state1} and {state2}, which object has the largest difference in observation time between the two states?"
+
+    },
+    "smallest_diff_observation_time": {
+      "question_template": "Among {state1} and {state2}, which object has the smallest difference in observation time between the two states?"
+
+    },
+    
+    "attribute_changed_objects": {
+      "question_template": "Which of the following objects had any attribute changes between {state1} and {state2}(excluding positional movements)?"
+
+    },
+    "room_attribute_changed_objects": {
+      "question_template": "In {room}, which of the following objects had attribute changes between {state1} and {state2}(excluding positional movements)?"
+
+    },
+    
+    "room_position_changes": {
+      "question_template": "In {room}, which objects changed position between {state1} and {state2}?"
+
+    },
+
+    "openness_state_comparison": {
+      "question_template": "What was the openness state of {object_name} in {state1} and {state2}?"
+
+    },
+    "toggle_state_comparison": {
+      "question_template": "What was the power state of {object_name} in {state1} and {state2}?"
+
+    },
+    "cleanliness_state_comparison": {
+      "question_template": "What was the cleanliness state of {object_name} in {state1} and {state2}?"
+
+    },
+    "cooking_state_comparison": {
+      "question_template": "What was the cooking state of {object_name} in {state1} and {state2}?"
+
+    },
+    "liquid_state_comparison": {
+      "question_template": "What was the liquid filling state of {object_name} in {state1} and {state2}?"
+
+    },
+    "breaking_state_comparison": {
+      "question_template": "What was the condition of {object_name} in {state1} and {state2}?"
+    },
+    "slicing_state_change": {
+      "question_template": "Was {object_name} sliced between {state1} and {state2}?"
+    },
+    "usage_state_change": {
+      "question_template": "Was {object_name} used up between {state1} and {state2}?"
+    }
+  }
+}

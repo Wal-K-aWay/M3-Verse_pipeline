@@ -1,0 +1,1234 @@
+{
+  "Alarm_Clock_24": {
+    "shape": "rectangular",
+    "color": "blue",
+    "other_features": "digital display, black body, rounded corners",
+    "description": "A digital device with a blue screen and black casing, featuring a rectangular form with rounded edges and a flat base.",
+    "object_category": "Alarm Clock",
+    "function": "used for waking up"
+  },
+  "Apple_24": {
+    "shape": "round",
+    "color": "red",
+    "other_features": "glossy surface, visible pores, slight indentation",
+    "description": "A round object with a red color and a glossy surface, showing visible pores and a slight indentation near the top.",
+    "object_category": "Apple",
+    "function": "used for eating"
+  },
+  "Armchair_230_1": {
+    "shape": "wingback",
+    "color": "brown",
+    "other_features": "plush seat, tufting, rolled armrests",
+    "description": "A sophisticated armchair with a high backrest and rolled armrests, featuring tufting and a plush, cushioned seat.",
+    "object_category": "Armchair",
+    "function": "used for sitting"
+  },
+  "Bathroom_Faucet_14": {
+    "shape": "cylindrical",
+    "color": "matte black",
+    "other_features": "sleek, minimalist design",
+    "description": "This faucet features a matte black cylindrical body with a sleek, minimalist design. Its angled handle and rounded spout contribute to its modern, streamlined appearance.",
+    "object_category": "Bathroom Faucet",
+    "function": "used for dispensing water"
+  },
+  "Bathroom_Faucet_2": {
+    "shape": "cylindrical",
+    "color": "metallic",
+    "other_features": "lever handle, temperature control",
+    "description": "This faucet has a metallic finish and a lever handle for temperature and flow control. It shares a similar cylindrical shape but differs in its metallic color and handle mechanism.",
+    "object_category": "Bathroom Faucet",
+    "function": "used for dispensing water"
+  },
+  "Bed_13": {
+    "shape": "rectangular",
+    "color": "white",
+    "other_features": "patterned comforter, blue accents",
+    "description": "This bed has a dark headboard and a white mattress, distinguished by its blue and white patterned comforter and matching pillow.",
+    "object_category": "Bed",
+    "function": "used for sleeping"
+  },
+  "Bed_9": {
+    "shape": "rectangular",
+    "color": "blue",
+    "other_features": "textured comforter, dark brown headboard",
+    "description": "This bed features a light blue, textured comforter and a dark brown headboard, setting it apart from other beds in the category.",
+    "object_category": "Bed",
+    "function": "used for sleeping"
+  },
+  "Book_17": {
+    "shape": "rectangular",
+    "color": "dark blue",
+    "other_features": "gold lettering, thick pages",
+    "description": "Book_17 stands out with its thick pages and gold lettering on a dark blue cover, offering a refined and substantial appearance.",
+    "object_category": "Book",
+    "function": "used for reading"
+  },
+  "Book_19": {
+    "shape": "rectangular",
+    "color": "blue",
+    "other_features": "dust jacket, illustration, white text",
+    "description": "Book_19 is distinguished by its dust jacket with an illustration and white text on a blue background, adding a detailed and artistic touch.",
+    "object_category": "Book",
+    "function": "used for reading"
+  },
+  "Book_21": {
+    "shape": "rectangular",
+    "color": "dark",
+    "other_features": "gold or light lettering, dark spine",
+    "description": "Book_21 is unique with its dark spine and either gold or light lettering, suggesting a minimalist yet elegant design.",
+    "object_category": "Book",
+    "function": "used for reading"
+  },
+  "Book_7": {
+    "shape": "rectangular",
+    "color": "dark blue",
+    "other_features": "gold lettering, detailing",
+    "description": "Book_7 is similar to Book_17 but lacks the thick pages, focusing instead on gold lettering and detailing for a sleeker look.",
+    "object_category": "Book",
+    "function": "used for reading"
+  },
+  "Bowl_15": {
+    "shape": "rounded",
+    "color": "white",
+    "other_features": "smooth glossy finish",
+    "description": "A white bowl with a smooth, glossy finish and a rounded rim. It is similar to other white bowls but lacks the color gradient found in Bowl_22.",
+    "object_category": "Bowl",
+    "function": "used for holding food"
+  },
+  "Bowl_21": {
+    "shape": "rounded",
+    "color": "white",
+    "other_features": "ceramic material",
+    "description": "A white ceramic bowl with a smooth, glossy finish and a rounded rim. It is similar to other white bowls but is explicitly identified as ceramic, distinguishing it from non-ceramic counterparts.",
+    "object_category": "Bowl",
+    "function": "used for holding food"
+  },
+  "Bowl_22": {
+    "shape": "shallow",
+    "color": "gradient",
+    "other_features": "wide rim, flat base",
+    "description": "A shallow, wide-rimmed bowl with a glossy finish and a gradient color scheme. It stands out for its color variation and functional design, unlike the uniform white bowls.",
+    "object_category": "Bowl",
+    "function": "used for holding food"
+  },
+  "Bowl_23": {
+    "shape": "rounded",
+    "color": "white",
+    "other_features": "ceramic material",
+    "description": "A white ceramic bowl with a smooth, glossy finish and a rounded rim. It is similar to Bowl_21 but is part of a series of ceramic bowls with identical descriptions.",
+    "object_category": "Bowl",
+    "function": "used for holding food"
+  },
+  "Bowl_24": {
+    "shape": "rounded",
+    "color": "white",
+    "other_features": "ceramic material",
+    "description": "A white ceramic bowl with a smooth, glossy finish and a rounded rim. It is similar to Bowl_23 and Bowl_21, all of which are ceramic bowls with identical descriptions.",
+    "object_category": "Bowl",
+    "function": "used for holding food"
+  },
+  "Bowl_8": {
+    "shape": "rounded",
+    "color": "white",
+    "other_features": "ceramic material",
+    "description": "A white ceramic bowl with a smooth, glossy finish and a rounded rim. It is similar to Bowl_21, Bowl_23, and Bowl_24, all of which are ceramic bowls with identical descriptions.",
+    "object_category": "Bowl",
+    "function": "used for holding food"
+  },
+  "Box_4": {
+    "shape": "rectangular",
+    "color": "dark blue",
+    "other_features": "textured surface, visible flap",
+    "description": "A dark blue rectangular box with a slightly textured surface and a visible flap, suggesting it can be opened or closed.",
+    "object_category": "Box",
+    "function": "used for holding items"
+  },
+  "Box_6": {
+    "shape": "rectangular",
+    "color": "brown",
+    "other_features": "partially folded flap, white shipping label",
+    "description": "A brown rectangular cardboard box with a partially folded flap and a visible white shipping label, indicating it may be a shipping container.",
+    "object_category": "Box",
+    "function": "used for holding items"
+  },
+  "ButterKnife_1": {
+    "shape": "tapered",
+    "color": "black",
+    "other_features": "serrated blade, pointed tip, gripping surface",
+    "description": "A knife with a black, tapered handle and a serrated blade designed for gripping and spreading soft substances.",
+    "object_category": "ButterKnife",
+    "function": "used for binding views"
+  },
+  "Candle_3": {
+    "shape": "cylindrical",
+    "color": "white",
+    "other_features": "smooth surface, visible wick",
+    "description": "A white, cylindrical candle with a smooth surface and a visible wick at the center, distinguishing it from other candles in the category.",
+    "object_category": "Candle",
+    "function": "used for lighting"
+  },
+  "Candle_4": {
+    "shape": "cylindrical",
+    "color": "dark",
+    "other_features": "smooth surface, unused, unlit",
+    "description": "A dark-colored, cylindrical candle with a smooth surface and a slightly rounded top, suggesting it is unused and unlit.",
+    "object_category": "Candle",
+    "function": "used for lighting"
+  },
+  "Candle_5": {
+    "shape": "cylindrical",
+    "color": "white",
+    "other_features": "multicolored gradient, lit wick, smooth texture",
+    "description": "A white cylindrical candle with a multicolored gradient and a lit wick, creating a visually striking and unique appearance.",
+    "object_category": "Candle",
+    "function": "used for lighting"
+  },
+  "Cellphone_3": {
+    "shape": "rectangular",
+    "color": "metallic",
+    "other_features": "thin bezels, rounded corners",
+    "description": "A modern smartphone with a sleek, rectangular design and metallic frame. It stands out with its thin bezels and rounded corners.",
+    "object_category": "Cellphone",
+    "function": "used for communication"
+  },
+  "Cellphone_4": {
+    "shape": "curved",
+    "color": "metallic",
+    "other_features": "antenna bands, single rear camera",
+    "description": "A modern smartphone with a slightly curved edge for ergonomic use. It features a metallic back with visible antenna bands and a single rear camera.",
+    "object_category": "Cellphone",
+    "function": "used for communication"
+  },
+  "Cellphone_7": {
+    "shape": "rectangular",
+    "color": "black",
+    "other_features": "power button, flash on top left",
+    "description": "A modern smartphone with a black case and a visible power button. It has a flash on the top left corner, distinguishing it from others.",
+    "object_category": "Cellphone",
+    "function": "used for communication"
+  },
+  "Chair_215_3": {
+    "shape": "curved",
+    "color": "light",
+    "other_features": "metallic frame, slender legs",
+    "description": "A modern chair with a curved backrest and light-colored upholstery, distinguished by its metallic frame and slender, splayed legs.",
+    "object_category": "Chair",
+    "function": "used for sitting"
+  },
+  "Chair_223_1": {
+    "shape": "rectangular",
+    "color": "brown",
+    "other_features": "dark wooden frame, white cushion",
+    "description": "A modern chair with a rectangular shape, dark brown wooden frame, and a white cushioned seat, setting it apart from other chairs in the category.",
+    "object_category": "Chair",
+    "function": "used for sitting"
+  },
+  "Chair_224_1": {
+    "shape": "contoured",
+    "color": "black",
+    "other_features": "headrest, adjustable armrests, wheeled base",
+    "description": "A modern office chair with a contoured black fabric backrest, integrated headrest, adjustable armrests, and a five-point wheeled base, making it distinct as an office-specific design.",
+    "object_category": "Chair",
+    "function": "used for sitting"
+  },
+  "Countertop_I_8x2": {
+    "shape": "rectangular",
+    "color": "dark",
+    "other_features": "smooth surface, rounded edges, consistent thickness",
+    "description": "A rectangular countertop with a dark color, smooth surface, and slightly rounded edges. It has consistent thickness and a refined, durable appearance.",
+    "object_category": "Countertop I 8x2",
+    "function": "used for cutting"
+  },
+  "Countertop_L_4x4": {
+    "shape": "rectangular",
+    "color": "black",
+    "other_features": "smooth surface, sharp edges, vertical front face",
+    "description": "A sleek, rectangular countertop with a smooth, black surface and sharp, straight edges, featuring a vertical front face that extends to the floor.",
+    "object_category": "Countertop L 4x4",
+    "function": "used for storage"
+  },
+  "CreditCard_1": {
+    "shape": "rectangular",
+    "color": "blue",
+    "other_features": "chip on left, smooth surface, rounded corners",
+    "description": "CreditCard_1 is a rectangular, blue credit card with a chip on the left and a smooth, rounded surface, distinguishing it from others with a more uniform design.",
+    "object_category": "CreditCard",
+    "function": "used for payment"
+  },
+  "CreditCard_2": {
+    "shape": "rectangular",
+    "color": "blue",
+    "other_features": "chip on left, standard size",
+    "description": "CreditCard_2 is a rectangular, blue credit card with a chip on the left, sharing the same design as CreditCard_3 but without the unique rounded corners or smooth surface.",
+    "object_category": "CreditCard",
+    "function": "used for payment"
+  },
+  "CreditCard_3": {
+    "shape": "rectangular",
+    "color": "blue",
+    "other_features": "chip on left, standard size",
+    "description": "CreditCard_3 is a rectangular, blue credit card with a chip on the left, similar to CreditCard_2 but without the unique rounded corners or smooth surface found in CreditCard_1.",
+    "object_category": "CreditCard",
+    "function": "used for payment"
+  },
+  "Desk_Lamp_4": {
+    "shape": "curved",
+    "color": "metallic",
+    "other_features": "adjustable arm, flat base",
+    "description": "A modern desk lamp with a curved design and metallic finish, featuring an adjustable arm and a flat, circular base for stability.",
+    "object_category": "Desk Lamp",
+    "function": "used for lighting"
+  },
+  "Desk_Lamp_5": {
+    "shape": "cylindrical",
+    "color": "black",
+    "other_features": "conical shade, visible power cord",
+    "description": "A modern desk lamp with a black finish, featuring a conical shade and a cylindrical base with a visible power cord extending from the bottom.",
+    "object_category": "Desk Lamp",
+    "function": "used for lighting"
+  },
+  "Dining_Table_223_1": {
+    "shape": "rectangular",
+    "color": "brown",
+    "other_features": "wooden, dark finish, smooth surface",
+    "description": "A rectangular table with a dark brown finish and smooth surface, supported by sturdy legs and a lower beam for stability.",
+    "object_category": "Dining Table",
+    "function": "used for eating"
+  },
+  "Dish_Sponge_1": {
+    "shape": "rectangular",
+    "color": "white",
+    "other_features": "grid-like pattern, raised pores, solid border",
+    "description": "A rectangular object with a grid-like pattern of raised pores and a solid border.",
+    "object_category": "Dish Sponge",
+    "function": "used for cleaning dishes"
+  },
+  "Dog_Bed_1_1": {
+    "shape": "round",
+    "color": "light grey",
+    "other_features": "plush, cushioned center, soft fabric",
+    "description": "A soft, cushioned bed with a round shape and light grey fabric.",
+    "object_category": "Dog Bed",
+    "function": "used for resting"
+  },
+  "Dresser_218_1": {
+    "shape": "rectangular",
+    "color": "light brown",
+    "other_features": "visible side panel, single drawer with knob",
+    "description": "This rectangular dresser stands out with its light brown finish and visible side panel, featuring a single drawer with a knob on the right side.",
+    "object_category": "Dresser",
+    "function": "used for storing clothing"
+  },
+  "Dresser_318_1": {
+    "shape": "rectangular",
+    "color": "dark brown",
+    "other_features": "simple design, no handles",
+    "description": "This dark brown dresser is distinguished by its simple, clean-lined design with no visible handles or hardware.",
+    "object_category": "Dresser",
+    "function": "used for storing clothing"
+  },
+  "Dresser_413_1": {
+    "shape": "rectangular",
+    "color": "light blue",
+    "other_features": "modern style, multiple horizontal drawers",
+    "description": "This light blue modern-style dresser is unique with its minimalist design and multiple horizontal drawers with no visible handles.",
+    "object_category": "Dresser",
+    "function": "used for storing clothing"
+  },
+  "Egg_23": {
+    "shape": "round",
+    "color": "brown",
+    "other_features": "smooth, slightly reflective, matte",
+    "description": "Egg_23 is a round brown egg with a smooth, slightly reflective surface and a matte finish, making it distinct from other eggs with more pronounced texture variations.",
+    "object_category": "Egg",
+    "function": "used for eating"
+  },
+  "Egg_6": {
+    "shape": "round",
+    "color": "brown",
+    "other_features": "slightly rough, matte",
+    "description": "Egg_6 is a round brown egg with a slightly rough texture and a matte finish, setting it apart from eggs with a smoother surface.",
+    "object_category": "Egg",
+    "function": "used for eating"
+  },
+  "Egg_Cracked_6": {
+    "shape": "irregular",
+    "color": "white",
+    "other_features": "smooth surface, visible crack",
+    "description": "A white egg with a slightly irregular shape, characterized by a smooth surface and a visible crack along one side.",
+    "object_category": "Egg Cracked",
+    "function": "used for eating"
+  },
+  "Fertility_Statue_2": {
+    "shape": "statue",
+    "color": "dark",
+    "other_features": "intricately detailed, pregnant woman, standing pose, holding object",
+    "description": "A small, detailed statue of a pregnant woman in a standing position, holding an object with a serene expression.",
+    "object_category": "Fertility Statue",
+    "function": "used for fertility"
+  },
+  "Floor_Lamp_11": {
+    "shape": "square",
+    "color": "white",
+    "other_features": "dark dots, vertical stand",
+    "description": "A square white shade with dark dots sets it apart. Its dark vertical stand contrasts with the light shade, offering a bold, modern look.",
+    "object_category": "Floor Lamp",
+    "function": "used for lighting"
+  },
+  "Floor_Lamp_23": {
+    "shape": "curved",
+    "color": "white",
+    "other_features": "shading transition, black dots",
+    "description": "A curved white shade with black dots and a shading transition from dark to light makes it distinct. The gradual color change adds a subtle, elegant touch.",
+    "object_category": "Floor Lamp",
+    "function": "used for lighting"
+  },
+  "Floor_Lamp_3": {
+    "shape": "rectangular",
+    "color": "dark",
+    "other_features": "light stand, circular base",
+    "description": "A dark rectangular shade with a light-colored stand and a circular base gives it a balanced, modern appearance. The contrast between dark and light creates a clean, minimalist design.",
+    "object_category": "Floor Lamp",
+    "function": "used for lighting"
+  },
+  "Fork_1": {
+    "shape": "cylindrical",
+    "color": "metallic",
+    "other_features": "reflective surface, evenly spaced tines, rounded handle",
+    "description": "A fork with a cylindrical handle and four evenly spaced tines, featuring a reflective surface and a rounded handle for a balanced appearance.",
+    "object_category": "Fork",
+    "function": "used for eating"
+  },
+  "Fridge_19": {
+    "shape": "rectangular",
+    "color": "black",
+    "other_features": "slightly curved front edge, right-side handle",
+    "description": "Fridge_19 is a rectangular black refrigerator with a slightly curved front edge and a handle on the right side, offering a clean, modern aesthetic.",
+    "object_category": "Fridge",
+    "function": "used for storing food"
+  },
+  "Fridge_5": {
+    "shape": "rectangular",
+    "color": "black",
+    "other_features": "curved front design, single right-side handle",
+    "description": "Fridge_5 is a rectangular black refrigerator with a curved front design and a single right-side handle, suggesting a right-hand opening.",
+    "object_category": "Fridge",
+    "function": "used for storing food"
+  },
+  "GarbageBag_21_1": {
+    "shape": "crumpled",
+    "color": "black",
+    "other_features": "semi-transparent, glossy, loop handles",
+    "description": "A crumpled black plastic bag with glossy surface and loop handles, distinct from rigid containers.",
+    "object_category": "GarbageBag",
+    "function": "used for holding trash"
+  },
+  "GarbageBag_21_2": {
+    "shape": "irregular",
+    "color": "light gray",
+    "other_features": "cylindrical trash can, semi-transparent bag, bulging",
+    "description": "A combination of a light gray cylindrical trash can and a bulging, semi-transparent bag, contrasting rigid and flexible forms.",
+    "object_category": "GarbageBag",
+    "function": "used for holding trash"
+  },
+  "Hand_Statue_3": {
+    "shape": "detailed",
+    "color": "unknown",
+    "other_features": "small, realistic, smooth surface",
+    "description": "A small, realistic figurine of a hand with a smooth surface and detailed features.",
+    "object_category": "Hand Statue",
+    "function": "used for display"
+  },
+  "Houseplant_11": {
+    "shape": "bushy",
+    "color": "green",
+    "other_features": "varied leaf shapes, compact, spreading",
+    "description": "This plant has a bushy, compact shape with varied leaf shapes, making it distinct from the more uniform leaf structures of the other plants.",
+    "object_category": "Houseplant",
+    "function": "used for growing"
+  },
+  "Houseplant_14": {
+    "shape": "spreading",
+    "color": "dark green",
+    "other_features": "narrow leaves, succulent, compact",
+    "description": "This succulent has a spreading, compact shape with narrow, dark green leaves, setting it apart from the more varied leaf forms of the other plants.",
+    "object_category": "Houseplant",
+    "function": "used for growing"
+  },
+  "Houseplant_18": {
+    "shape": "slender",
+    "color": "green",
+    "other_features": "delicate leaves, compact, balanced",
+    "description": "This plant has a slender, compact shape with delicate, balanced leaves, distinguishing it through its refined and fragile appearance.",
+    "object_category": "Houseplant",
+    "function": "used for growing"
+  },
+  "Kettle_1": {
+    "shape": "rounded",
+    "color": "silver",
+    "other_features": "curved spout, ergonomic handle, hanging loop",
+    "description": "A sleek, modern kettle with a rounded body and a curved spout, featuring an ergonomic handle and a hanging loop for convenience.",
+    "object_category": "Kettle",
+    "function": "used for boiling water"
+  },
+  "Keychain_2": {
+    "shape": "rectangular",
+    "color": "multicolored",
+    "other_features": "gradient design, smooth surface, rounded corners",
+    "description": "A small, flat object with a gradient color scheme and smooth, rounded edges.",
+    "object_category": "Keychain",
+    "function": "used for attaching keys"
+  },
+  "Ladle_1": {
+    "shape": "oval",
+    "color": "metallic",
+    "other_features": "smooth reflective surface, tapered handle",
+    "description": "An oval metallic ladle with a smooth, reflective surface and a tapered handle, offering a refined and balanced appearance.",
+    "object_category": "Ladle",
+    "function": "used for serving food"
+  },
+  "Ladle_3": {
+    "shape": "round",
+    "color": "metallic",
+    "other_features": "hanging loop, polished surface, straight handle",
+    "description": "A round metallic ladle with a hanging loop and polished surface, designed for efficient pouring and durable use.",
+    "object_category": "Ladle",
+    "function": "used for serving food"
+  },
+  "Laptop_11": {
+    "shape": "rectangular",
+    "color": "black",
+    "other_features": "glossy screen, thick bezel, visible hinge",
+    "description": "This laptop has a glossy screen with a thick bezel and a visible hinge mechanism, distinguishing it from others with more subdued displays.",
+    "object_category": "Laptop",
+    "function": "used for computing"
+  },
+  "Laptop_14": {
+    "shape": "rectangular",
+    "color": "black",
+    "other_features": "standard QWERTY keyboard, widescreen display, angled screen",
+    "description": "This laptop features a standard QWERTY keyboard and a widescreen display with an angled screen, suggesting it is open for use.",
+    "object_category": "Laptop",
+    "function": "used for computing"
+  },
+  "Laptop_2": {
+    "shape": "rectangular",
+    "color": "black",
+    "other_features": "standard QWERTY keyboard, widescreen display, angled screen",
+    "description": "This laptop is identical in design to Laptop_14, with a standard QWERTY keyboard and a widescreen display with an angled screen.",
+    "object_category": "Laptop",
+    "function": "used for computing"
+  },
+  "Laptop_8": {
+    "shape": "rectangular",
+    "color": "black",
+    "other_features": "standard QWERTY keyboard, widescreen display",
+    "description": "This laptop is the most basic of the four, featuring only a standard QWERTY keyboard and a widescreen display without additional distinguishing features.",
+    "object_category": "Laptop",
+    "function": "used for computing"
+  },
+  "Lettuce_19": {
+    "shape": "ruffled",
+    "color": "green",
+    "other_features": "crisp texture, visible veins",
+    "description": "Lettuce_19 has a ruffled edge and a gradient from pale green to dark green. Its crisp texture and visible veins distinguish it from other lettuce varieties.",
+    "object_category": "Lettuce",
+    "function": "used for eating"
+  },
+  "Lettuce_7": {
+    "shape": "ruffled",
+    "color": "green",
+    "other_features": "slightly glossy surface",
+    "description": "Lettuce_7 has a ruffled edge and a gradient from pale green to dark green. Its slightly glossy surface sets it apart from other lettuce leaves.",
+    "object_category": "Lettuce",
+    "function": "used for eating"
+  },
+  "Newspaper_3": {
+    "shape": "rectangular",
+    "color": "black",
+    "other_features": "text, images, white background",
+    "description": "A rectangular newspaper with black text and white background, featuring text and images on the upper half.",
+    "object_category": "Newspaper",
+    "function": "used for reading"
+  },
+  "Newspaper_4": {
+    "shape": "rectangular",
+    "color": "blue",
+    "other_features": "blue lower half, folded structure, white background",
+    "description": "A rectangular newspaper with a blue lower half and white background, featuring a clear headline and article content on the upper half.",
+    "object_category": "Newspaper",
+    "function": "used for reading"
+  },
+  "Pan_9": {
+    "shape": "cylindrical",
+    "color": "black",
+    "other_features": "long straight handle, hanging loop, reflective surface, rounded base",
+    "description": "A black frying pan with a long straight handle and a hanging loop, and a cylindrical pot with a reflective surface and a rounded base.",
+    "object_category": "Pan",
+    "function": "used for cooking"
+  },
+  "Paper_Towel_1": {
+    "shape": "rectangular",
+    "color": "white",
+    "other_features": "textured, embossed, dot pattern",
+    "description": "A white paper product with a textured surface featuring small embossed dots.",
+    "object_category": "Paper Towel",
+    "function": "used for wiping"
+  },
+  "Pen_4": {
+    "shape": "cylindrical",
+    "color": "black",
+    "other_features": "glossy finish, silver clip",
+    "description": "A sleek writing instrument with a black body and a shiny surface, featuring a small silver attachment on the cap.",
+    "object_category": "Pen",
+    "function": "used for writing"
+  },
+  "Pencil_3": {
+    "shape": "hexagonal",
+    "color": "black",
+    "other_features": "sharpened tip, graphite core",
+    "description": "Pencil_3 is a hexagonal pencil with a black color, featuring a sharpened tip that reveals a graphite core, making it distinct for its functional design.",
+    "object_category": "Pencil",
+    "function": "used for writing"
+  },
+  "Pencil_7": {
+    "shape": "hexagonal",
+    "color": "dark brown",
+    "other_features": "structured design, exposed graphite",
+    "description": "Pencil_7 is a hexagonal pencil with a dark brown color, distinguished by its structured design and exposed graphite core, highlighting its standard construction.",
+    "object_category": "Pencil",
+    "function": "used for writing"
+  },
+  "Plate_11": {
+    "shape": "rectangular",
+    "color": "dark",
+    "other_features": "textured surface, glossy finish",
+    "description": "An object which is rectangular. This plate stands out with its dark color, textured surface, and glossy finish, offering both visual and tactile interest.",
+    "object_category": "Plate",
+    "function": "used for eating"
+  },
+  "Plate_22": {
+    "shape": "round",
+    "color": "metallic",
+    "other_features": "reflective surface, slightly raised edge",
+    "description": "An object which is round. This plate is distinguished by its metallic color and reflective surface, giving it a polished and modern appearance.",
+    "object_category": "Plate",
+    "function": "used for eating"
+  },
+  "Plate_24": {
+    "shape": "round",
+    "color": "metallic",
+    "other_features": "reflective surface, slightly raised edge",
+    "description": "An object which is round. This plate is similar to Plate_22, but no additional distinguishing features were noted beyond the common attributes.",
+    "object_category": "Plate",
+    "function": "used for eating"
+  },
+  "Plate_3": {
+    "shape": "round",
+    "color": "metallic",
+    "other_features": "reflective surface, slightly raised edge",
+    "description": "An object which is round. This plate is similar to Plate_22 and Plate_24, with no unique features identified beyond the common attributes.",
+    "object_category": "Plate",
+    "function": "used for eating"
+  },
+  "Plunger_3": {
+    "shape": "cylindrical",
+    "color": "neutral",
+    "other_features": "tapered handle, ridges for grip, flared base",
+    "description": "A tool with a cylindrical body and a tapered handle, featuring ridges for grip and a flared base.",
+    "object_category": "Plunger",
+    "function": "used for unclogging"
+  },
+  "Potato_6": {
+    "shape": "irregular",
+    "color": "brown",
+    "other_features": "rough skin, textured surface, oblong form",
+    "description": "A potato with a rough, textured exterior and an irregular, oblong shape.",
+    "object_category": "Potato",
+    "function": "used for eating"
+  },
+  "Remote_2": {
+    "shape": "curved",
+    "color": "blue",
+    "other_features": "circular navigation pad, numeric keypad",
+    "description": "A blue remote with a curved shape and a circular navigation pad. It includes a numeric keypad, making it distinct from other remotes in the category.",
+    "object_category": "Remote",
+    "function": "used for controlling devices"
+  },
+  "Remote_3": {
+    "shape": "curved",
+    "color": "black",
+    "other_features": "glossy finish, button rows",
+    "description": "A black remote with a curved shape and a glossy finish. It features button rows arranged in rows, setting it apart from other remotes in the category.",
+    "object_category": "Remote",
+    "function": "used for controlling devices"
+  },
+  "RoboTHOR_baseball_bat_rawlings_v": {
+    "shape": "cylindrical",
+    "color": "black",
+    "other_features": "varnished wood, grip tape, brand logo",
+    "description": "A baseball bat with a tapered barrel and a smooth, varnished surface, featuring black grip tape and a prominent brand logo.",
+    "object_category": "RoboTHOR baseball bat rawlings v",
+    "function": "used for hitting baseballs"
+  },
+  "RoboTHOR_bed_kritter": {
+    "shape": "rectangular",
+    "color": "light gray",
+    "other_features": "sleek design, minimalist style, integrated headboard",
+    "description": "A modern bed with a sleek, minimalist design featuring a low-profile headboard and a flat surface. The bed has a light-colored upholstery and a clean, contemporary look.",
+    "object_category": "RoboTHOR bed kritter",
+    "function": "used for sleeping"
+  },
+  "RoboTHOR_butter_knife_ai2_1_v": {
+    "shape": "sleek",
+    "color": "black",
+    "other_features": "metallic blade, serrated edge, textured grip",
+    "description": "A modern knife with a black handle and a metallic blade that has a serrated edge and a pointed tip. It features a textured grip for better control and comfort.",
+    "object_category": "RoboTHOR butter knife ai2",
+    "function": "used for cutting"
+  },
+  "RoboTHOR_candle_glittrig_3_v": {
+    "shape": "cylindrical",
+    "color": "blue",
+    "other_features": "gradient, glittery, white wick",
+    "description": "A blue cylindrical object with a gradient color scheme and a glittery texture, featuring a white wick that contrasts with its colored surface.",
+    "object_category": "RoboTHOR candle glittrig",
+    "function": "used for lighting"
+  },
+  "RoboTHOR_cellphone_blackberry_v": {
+    "shape": "rectangular",
+    "color": "black",
+    "other_features": "physical keyboard, QWERTY layout",
+    "description": "A black rectangular device with a physical keyboard and QWERTY layout.",
+    "object_category": "RoboTHOR cellphone blackberry v",
+    "function": "used for communication"
+  },
+  "RoboTHOR_desk_lamp_ai2_v": {
+    "shape": "rectangular",
+    "color": "metallic",
+    "other_features": "adjustable arm, flexible neck, stable base",
+    "description": "A modern desk lamp with a sleek, metallic finish and a flexible neck design, featuring an adjustable arm and a stable base.",
+    "object_category": "RoboTHOR desk lamp ai2 v",
+    "function": "used for lighting"
+  },
+  "RoboTHOR_dining_table_jokkmokk_v": {
+    "shape": "rectangular",
+    "color": "brown",
+    "other_features": "wooden table with visible grain, flat top, angled legs",
+    "description": "A rectangular wooden table with a flat top and four legs, two of which are angled slightly outward.",
+    "object_category": "RoboTHOR dining table jokkmokk v",
+    "function": "used for dining"
+  },
+  "RoboTHOR_mug_ai2_2_v": {
+    "shape": "cylindrical",
+    "color": "glossy",
+    "other_features": "printed design, robotic figure, curved handle",
+    "description": "A cylindrical mug with a glossy surface featuring a printed robotic design and a curved handle for grip.",
+    "object_category": "RoboTHOR mug ai2",
+    "function": "used for drinking"
+  },
+  "RoboTHOR_office_chair_volmar": {
+    "shape": "contoured",
+    "color": "black",
+    "other_features": "ergonomic support, adjustable armrests, wheeled base",
+    "description": "A modern office chair with a contoured backrest and ergonomic support, featuring adjustable armrests and a wheeled base for mobility.",
+    "object_category": "RoboTHOR office chair volmar",
+    "function": "used for sitting"
+  },
+  "RoboTHOR_pen_signo_v": {
+    "shape": "cylindrical",
+    "color": "black and white",
+    "other_features": "robotic arm, articulated joints, stylized sign",
+    "description": "A robotic arm with a cylindrical torso and articulated joints, featuring a black and white sign displaying 'ROBOTHOR' and a stylized 'v'.",
+    "object_category": "RoboTHOR pen signo v",
+    "function": "used for writing"
+  },
+  "RoboTHOR_pencil_amazon_basics_v": {
+    "shape": "hexagonal",
+    "color": "dark",
+    "other_features": "graphite core, sharpened tip, solid body",
+    "description": "A solid pencil with a dark color scheme and a visible graphite core, featuring a sharpened tip.",
+    "object_category": "RoboTHOR pencil amazon basics v",
+    "function": "used for writing"
+  },
+  "RoboTHOR_salt_pepper_shaker_bnyd_salt_v": {
+    "shape": "cylindrical",
+    "color": "black",
+    "other_features": "transparent body, white label, black top",
+    "description": "A sleek, cylindrical salt shaker with a black base and top, transparent body allowing contents to be seen, and a white label with black text.",
+    "object_category": "RoboTHOR salt pepper shaker bnyd salt v",
+    "function": "used for holding salt and pepper"
+  },
+  "Salt_Shaker_2": {
+    "shape": "cylindrical",
+    "color": "metallic",
+    "other_features": "transparent glass body, screw-on lid, salt dispensing holes",
+    "description": "A small salt shaker with a transparent glass body and a metallic lid, designed for easy salt dispensing and aesthetic appeal.",
+    "object_category": "Salt Shaker",
+    "function": "used for holding salt"
+  },
+  "Sink_26": {
+    "shape": "rectangular",
+    "color": "matte",
+    "other_features": "undermount, deep basin, single faucet hole, overflow hole",
+    "description": "A rectangular sink with a deep basin, installed flush with the countertop, featuring a single faucet hole and an overflow hole.",
+    "object_category": "Sink",
+    "function": "used for washing hands"
+  },
+  "Soap_Bar_1": {
+    "shape": "rectangular",
+    "color": "blue",
+    "other_features": "rounded edges, smooth surface",
+    "description": "A rectangular bar with a blue color and smooth, rounded edges.",
+    "object_category": "Soap Bar",
+    "function": "used for cleaning"
+  },
+  "Soap_Bottle_20": {
+    "shape": "cylindrical",
+    "color": "black",
+    "other_features": "transparent body, curved shape",
+    "description": "A cylindrical soap dispenser with a black pump and a clear, slightly curved body. It stands out with its distinct black pump and curved design.",
+    "object_category": "Soap Bottle",
+    "function": "used for cleaning"
+  },
+  "Soap_Bottle_3": {
+    "shape": "cylindrical",
+    "color": "clear",
+    "other_features": "glass material, narrow neck, metal cap",
+    "description": "A cylindrical glass bottle with a narrow neck and a metal screw cap. It is distinguished by its transparent glass and metallic closure.",
+    "object_category": "Soap Bottle",
+    "function": "used for cleaning"
+  },
+  "Sofa_221_1": {
+    "shape": "rectangular",
+    "color": "gray",
+    "other_features": "sleek design, minimalist style, smooth surface",
+    "description": "A modern sofa with a clean, rectangular shape and light gray upholstery, featuring a minimalist design and smooth, untextured surfaces.",
+    "object_category": "Sofa",
+    "function": "used for sitting"
+  },
+  "Spoon_1": {
+    "shape": "round",
+    "color": "metallic",
+    "other_features": "reflective surface, rounded bowl",
+    "description": "A round object with a reflective surface and a rounded bowl.",
+    "object_category": "Spoon",
+    "function": "used for eating"
+  },
+  "Spray_Bottle_2": {
+    "shape": "cylindrical",
+    "color": "metallic",
+    "other_features": "trigger-style spray mechanism",
+    "description": "A cylindrical spray bottle with a metallic finish and a trigger-style spray mechanism. It is similar to Spray_Bottle_7 but lacks the detailed nozzle description.",
+    "object_category": "Spray Bottle",
+    "function": "used for spraying"
+  },
+  "Spray_Bottle_6": {
+    "shape": "cylindrical",
+    "color": "dark",
+    "other_features": "fine mist nozzle, durable design",
+    "description": "A cylindrical spray bottle with a dark-colored body and metallic finish. It features a fine mist nozzle, making it suitable for precise applications.",
+    "object_category": "Spray Bottle",
+    "function": "used for spraying"
+  },
+  "Spray_Bottle_7": {
+    "shape": "cylindrical",
+    "color": "metallic",
+    "other_features": "trigger-style spray mechanism",
+    "description": "A cylindrical spray bottle with a metallic finish and a trigger-style spray mechanism. It is similar to Spray_Bottle_2 but lacks the detailed nozzle description.",
+    "object_category": "Spray Bottle",
+    "function": "used for spraying"
+  },
+  "Spray_Bottle_8": {
+    "shape": "cylindrical",
+    "color": "dark",
+    "other_features": "narrow nozzle, tapered body",
+    "description": "A cylindrical spray bottle with a dark-colored body and metallic finish. It has a narrow nozzle and a tapered body, contributing to its ergonomic design.",
+    "object_category": "Spray Bottle",
+    "function": "used for spraying"
+  },
+  "TV_Stand_211_1": {
+    "shape": "slim",
+    "color": "colorful",
+    "other_features": "flat-screen, wall-mounted",
+    "description": "This TV stand is a modern, wall-mounted flat-screen TV with a slim bezel design, distinguishing it through its sleek, integrated appearance compared to the other stands.",
+    "object_category": "TV Stand",
+    "function": "used for holding tv"
+  },
+  "TV_Stand_212_1": {
+    "shape": "rectangular",
+    "color": "brown",
+    "other_features": "wooden, grain-patterned, cutout",
+    "description": "This stand is a dark brown wooden rectangular TV stand with a visible side panel and a rectangular cutout, setting it apart with its natural wood texture and traditional design.",
+    "object_category": "TV Stand",
+    "function": "used for holding tv"
+  },
+  "TV_Stand_220_1": {
+    "shape": "rectangular",
+    "color": "black",
+    "other_features": "minimalist, sleek, lower shelf",
+    "description": "This stand is a modern, black rectangular TV stand with a minimalist design and a lower shelf, making it stand out with its clean, contemporary aesthetic.",
+    "object_category": "TV Stand",
+    "function": "used for holding tv"
+  },
+  "Teddy_Bear_1": {
+    "shape": "rounded",
+    "color": "brown",
+    "other_features": "textured fur, stitched nose, rounded ears",
+    "description": "A soft, cuddly toy with a rounded body and brown fur, featuring stitched details and rounded ears.",
+    "object_category": "Teddy Bear",
+    "function": "used for comfort"
+  },
+  "Television_14": {
+    "shape": "rectangular",
+    "color": "black",
+    "other_features": "vertical bars, green yellow red blue",
+    "description": "Television_14 is rectangular with vertical bars in green, yellow, red, and blue, distinguishing it from others with a unique visual pattern.",
+    "object_category": "Television",
+    "function": "used for watching programs"
+  },
+  "Television_22": {
+    "shape": "rectangular",
+    "color": "black",
+    "other_features": "glossy screen, slim bezel",
+    "description": "Television_22 stands out with its glossy screen and slim black bezel, offering a minimalist and vibrant display.",
+    "object_category": "Television",
+    "function": "used for watching programs"
+  },
+  "Television_25": {
+    "shape": "rectangular",
+    "color": "black",
+    "other_features": "glossy bezel, power indicator",
+    "description": "Television_25 is distinguished by its glossy black bezel and a visible power indicator light on the lower edge.",
+    "object_category": "Television",
+    "function": "used for watching programs"
+  },
+  "Television_26": {
+    "shape": "rectangular",
+    "color": "black",
+    "other_features": "glossy finish, power indicator",
+    "description": "Television_26 is unique due to its glossy black finish and a power indicator light on the lower right corner of the frame.",
+    "object_category": "Television",
+    "function": "used for watching programs"
+  },
+  "Tennis_Racquet_4": {
+    "shape": "oval",
+    "color": "black",
+    "other_features": "brown handle, white and red accents, dense string pattern",
+    "description": "A racket with an oval shape, primarily black in color, featuring a brown handle and white and red accents. It has a dense string pattern.",
+    "object_category": "Tennis Racquet",
+    "function": "used for hitting tennis balls"
+  },
+  "Tissue_Box_1": {
+    "shape": "rectangular",
+    "color": "blue",
+    "other_features": "cardboard, open flap, white dots",
+    "description": "A rectangular box with a blue color gradient and white dots, featuring an open flap that reveals a white interior.",
+    "object_category": "Tissue Box",
+    "function": "used for holding tissues"
+  },
+  "Toilet_2": {
+    "shape": "rectangular",
+    "color": "white",
+    "other_features": "ceramic tank, closed lid, flush handle",
+    "description": "A rectangular object with a white ceramic tank and bowl, having a closed lid and a flush handle on the left side.",
+    "object_category": "Toilet",
+    "function": "used for flushing"
+  },
+  "Toilet_Paper": {
+    "shape": "cylindrical",
+    "color": "white",
+    "other_features": "roll, perforation line, end of sheet",
+    "description": "A white roll with a perforation line marking the end of a sheet.",
+    "object_category": "Toilet Paper",
+    "function": "used for wiping"
+  },
+  "Toilet_Paper_Used_Up": {
+    "shape": "rectangular",
+    "color": "white",
+    "other_features": "soft, slightly crumpled, used",
+    "description": "A soft, white strip that is slightly crumpled, indicating it has been used.",
+    "object_category": "Toilet Paper Used Up",
+    "function": "used for wiping"
+  },
+  "Tomato_20": {
+    "shape": "round",
+    "color": "red",
+    "other_features": "glossy surface, smooth curvature",
+    "description": "A round, red tomato with a glossy surface and smooth curvature, distinguished by its polished appearance and securely attached stem.",
+    "object_category": "Tomato",
+    "function": "used for eating"
+  },
+  "Tomato_5": {
+    "shape": "round",
+    "color": "red",
+    "other_features": "glossy finish, consistent curvature",
+    "description": "A round, red tomato with a glossy finish and consistent curvature, distinguished by its polished and mature appearance with a securely attached stem.",
+    "object_category": "Tomato",
+    "function": "used for eating"
+  },
+  "Towel_Statue_2": {
+    "shape": "towel-like",
+    "color": "yellow",
+    "other_features": "textured surface, hanging rack resemblance",
+    "description": "A small yellow statue that resembles a towel hanging on a rack, with a textured surface.",
+    "object_category": "Towel Statue",
+    "function": "used for display"
+  },
+  "Vase_Flat_5": {
+    "shape": "flat",
+    "color": "glossy",
+    "other_features": "broad base, narrow neck, smooth finish",
+    "description": "A flat vase with a broad base that tapers into a narrow neck, characterized by a smooth and glossy surface.",
+    "object_category": "Vase Flat",
+    "function": "used for holding flowers"
+  },
+  "Vase_Tall_5": {
+    "shape": "slender",
+    "color": "glossy",
+    "other_features": "narrow neck, flaring top, tapered body",
+    "description": "A tall vase with a slender form and a glossy surface, characterized by a narrow neck that flares at the top and a gently tapered body.",
+    "object_category": "Vase Tall",
+    "function": "used for holding flowers"
+  },
+  "Wall_Decor_Painting_10": {
+    "shape": "sky-like",
+    "color": "blue",
+    "other_features": "swirling clouds, starry night",
+    "description": "This painting captures a swirling blue sky with yellow and white clouds, evoking a starry night atmosphere, distinct from other abstract or realistic depictions.",
+    "object_category": "Wall Decor Painting",
+    "function": "used for decoration"
+  },
+  "Wall_Decor_Painting_3": {
+    "shape": "textured",
+    "color": "earth-toned",
+    "other_features": "rough brushwork, natural material",
+    "description": "A textured, earth-toned painting with rough brushwork suggests a natural, stone-like material, setting it apart from smoother or more abstract works.",
+    "object_category": "Wall Decor Painting",
+    "function": "used for decoration"
+  },
+  "Wall_Decor_Painting_6": {
+    "shape": "cloudy",
+    "color": "grayscale",
+    "other_features": "soft light, impressionistic",
+    "description": "This grayscale painting features a soft, diffused light and impressionistic brushwork, creating a calm atmosphere that contrasts with more structured or textured pieces.",
+    "object_category": "Wall Decor Painting",
+    "function": "used for decoration"
+  },
+  "Wall_Decor_Painting_7": {
+    "shape": "geometric",
+    "color": "black-and-white",
+    "other_features": "grid-like, dynamic lines",
+    "description": "A black-and-white abstract painting with a grid-like structure and dynamic lines, offering a structured yet energetic contrast to more organic or soft compositions.",
+    "object_category": "Wall Decor Painting",
+    "function": "used for decoration"
+  },
+  "Wall_Decor_Painting_8": {
+    "shape": "triangular",
+    "color": "grayscale",
+    "other_features": "textured object, misty background",
+    "description": "This triangular-shaped painting features a textured object in a misty background, distinguishing it through its shape and atmospheric landscape composition.",
+    "object_category": "Wall Decor Painting",
+    "function": "used for decoration"
+  },
+  "Wall_Decor_Painting_9": {
+    "shape": "geometric",
+    "color": "blue-and-white",
+    "other_features": "abstract shapes, lines",
+    "description": "A blue-and-white abstract painting with geometric shapes and lines, setting it apart from more organic or naturalistic depictions.",
+    "object_category": "Wall Decor Painting",
+    "function": "used for decoration"
+  },
+  "Wall_Decor_Painting_1V": {
+    "shape": "triangular",
+    "color": "brown",
+    "other_features": "gradient transition, smooth blend",
+    "description": "A triangular painting with a gradual color shift from dark to light brown.",
+    "object_category": "Wall Decor Painting 1V",
+    "function": "used for decoration"
+  },
+  "Wall_Decor_Painting_3V": {
+    "shape": "geometric",
+    "color": "blue",
+    "other_features": "gradient transition, abstract design, textured surface",
+    "description": "This artwork features a dynamic blend of geometric shapes and a smooth gradient transition, creating a visually engaging and textured surface.",
+    "object_category": "Wall Decor Painting 3V",
+    "function": "used for decoration"
+  },
+  "Wall_Decor_Photo_1": {
+    "shape": "abstract",
+    "color": "gray",
+    "other_features": "textured surface, brushstroke technique",
+    "description": "An abstract painting with a textured surface and gray tones, distinct from other photos due to its artistic texture and brushstroke style.",
+    "object_category": "Wall Decor Photo",
+    "function": "used for decoration"
+  },
+  "Wall_Decor_Photo_10": {
+    "shape": "rectangular",
+    "color": "blue",
+    "other_features": "sky with clouds, serene atmosphere",
+    "description": "A rectangular photo of a blue sky with clouds, offering a calm and serene atmosphere that sets it apart from other landscape photos.",
+    "object_category": "Wall Decor Photo",
+    "function": "used for decoration"
+  },
+  "Wall_Decor_Photo_2": {
+    "shape": "triangular",
+    "color": "dark",
+    "other_features": "misty valley, distant figure, low angle",
+    "description": "A triangular-shaped photo with a dark, moody atmosphere, featuring a misty valley and a distant figure, creating a sense of mystery and depth.",
+    "object_category": "Wall Decor Photo",
+    "function": "used for decoration"
+  },
+  "Wall_Decor_Photo_3": {
+    "shape": "rectangular",
+    "color": "dark",
+    "other_features": "night sky, mountain silhouette, matte finish",
+    "description": "A rectangular dark-colored piece combining a night sky with a mountain silhouette, distinguished by its matte finish and artistic design.",
+    "object_category": "Wall Decor Photo",
+    "function": "used for decoration"
+  },
+  "Wall_Decor_Photo_6": {
+    "shape": "rectangular",
+    "color": "green",
+    "other_features": "mountainous terrain, cloudy sky, green hues",
+    "description": "A rectangular photo of a mountainous landscape with green and brown hues under a cloudy sky, different from others due to its natural color palette.",
+    "object_category": "Wall Decor Photo",
+    "function": "used for decoration"
+  },
+  "Wall_Decor_Photo_7": {
+    "shape": "rectangular",
+    "color": "green",
+    "other_features": "hill, clear sky, green vegetation",
+    "description": "A rectangular photo of a hill with green vegetation under a clear blue sky, distinct for its bright, clear sky and vibrant greenery.",
+    "object_category": "Wall Decor Photo",
+    "function": "used for decoration"
+  },
+  "Wall_Decor_Photo_1V": {
+    "shape": "triangular",
+    "color": "dark",
+    "other_features": "reflective surface, landscape photo, clear sky, mountainous terrain",
+    "description": "A triangular wall decoration with a dark frame and a reflective surface on one side, featuring a landscape photo of a clear sky and mountains on the other.",
+    "object_category": "Wall Decor Photo 1V",
+    "function": "used for decoration"
+  },
+  "Wall_Decor_Photo_3V": {
+    "shape": "rectangular",
+    "color": "multicolored",
+    "other_features": "sleek, modern, slim bezel, vibrant display",
+    "description": "A modern, sleek wall-mounted display with a slim bezel and a vibrant, colorful image that suggests dynamic visual content.",
+    "object_category": "Wall Decor Photo 3V",
+    "function": "used for decoration"
+  },
+  "Watch_1": {
+    "shape": "round",
+    "color": "dark",
+    "other_features": "analog digital hybrid",
+    "description": "A round, dark-colored watch with a hybrid analog-digital design, offering both traditional timekeeping and a digital display for enhanced readability.",
+    "object_category": "Watch",
+    "function": "used for timekeeping"
+  },
+  "Watch_2": {
+    "shape": "round",
+    "color": "dark",
+    "other_features": "reflective crown leather strap",
+    "description": "A round, dark-colored watch with a reflective metallic case and a leather strap, featuring a visible crown for time adjustment.",
+    "object_category": "Watch",
+    "function": "used for timekeeping"
+  },
+  "Wine_Bottle_1": {
+    "shape": "slender",
+    "color": "dark",
+    "other_features": "white label, tapered body, centered label",
+    "description": "A dark-colored bottle with a slender shape and a white label centered on its upper body.",
+    "object_category": "Wine Bottle",
+    "function": "used for holding wine"
+  },
+  "bin_14": {
+    "shape": "rectangular",
+    "color": "black",
+    "other_features": "flat lid, slightly textured surface",
+    "description": "This black rectangular bin has a flat lid and a slightly textured surface, distinguishing it from others in the rectangular category.",
+    "object_category": "bin",
+    "function": "used for holding waste"
+  },
+  "bin_22": {
+    "shape": "cylindrical",
+    "color": "blue",
+    "other_features": "dome-shaped lid, swing-top",
+    "description": "This blue cylindrical bin has a dome-shaped swing-top lid, making it unique among the rectangular bins.",
+    "object_category": "bin",
+    "function": "used for holding waste"
+  },
+  "bin_23": {
+    "shape": "rectangular",
+    "color": "dark",
+    "other_features": "flat lid, slightly textured surface",
+    "description": "This dark-colored rectangular bin shares the same features as bin_14 but differs in color, making it distinct.",
+    "object_category": "bin",
+    "function": "used for holding waste"
+  },
+  "bin_25": {
+    "shape": "rectangular",
+    "color": "green",
+    "other_features": "flat lid, slightly textured surface",
+    "description": "This green rectangular bin is similar to others in the rectangular category but stands out with its green color.",
+    "object_category": "bin",
+    "function": "used for holding waste"
+  },
+  "bin_30": {
+    "shape": "rectangular",
+    "color": "blue",
+    "other_features": "flat lid, slightly textured surface",
+    "description": "This blue rectangular bin is similar to bin_22 but is rectangular instead of cylindrical, making it distinct.",
+    "object_category": "bin",
+    "function": "used for holding waste"
+  },
+  "bin_9": {
+    "shape": "rectangular",
+    "color": "blue",
+    "other_features": "flat lid, slightly textured surface",
+    "description": "This blue rectangular bin is identical in features to bin_30, but it is a separate object with the same characteristics.",
+    "object_category": "bin",
+    "function": "used for holding waste"
+  },
+  "pillow_17": {
+    "shape": "rectangular",
+    "color": "light",
+    "other_features": "smooth fabric, visible seam",
+    "description": "A rectangular pillow with a light-colored, smooth fabric cover and a visible seam, distinguishing it from other pillows with more textured or patterned surfaces.",
+    "object_category": "pillow",
+    "function": "used for supporting the head"
+  },
+  "pillow_2": {
+    "shape": "rectangular",
+    "color": "deep purple",
+    "other_features": "textured pattern, flange seam",
+    "description": "A rectangular pillow with a deep purple hue and a textured pattern, set apart by its flange seam and bold color choice.",
+    "object_category": "pillow",
+    "function": "used for supporting the head"
+  },
+  "pillow_24": {
+    "shape": "square",
+    "color": "teal",
+    "other_features": "solid color, visible seam",
+    "description": "A square-shaped pillow with a solid teal color and a visible seam, contrasting with the patterned and textured pillows in the group.",
+    "object_category": "pillow",
+    "function": "used for supporting the head"
+  },
+  "pillow_25": {
+    "shape": "square",
+    "color": "brown",
+    "other_features": "striped pattern, central button",
+    "description": "A square-shaped pillow with alternating dark and light brown stripes and a central brown button, making it stand out with its unique design elements.",
+    "object_category": "pillow",
+    "function": "used for supporting the head"
+  },
+  "pillow_3": {
+    "shape": "square",
+    "color": "teal",
+    "other_features": "woven texture, mottled appearance",
+    "description": "A square-shaped pillow with a teal cover and a mottled, woven texture, differentiating it through its subtle, textured surface and cohesive design.",
+    "object_category": "pillow",
+    "function": "used for supporting the head"
+  }
+}

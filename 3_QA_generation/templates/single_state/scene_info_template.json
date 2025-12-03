@@ -1,0 +1,28 @@
+{
+  "scene_info": {
+    "scene_area": {
+      "question_template": "What is the area of this scene?"
+    },
+    "room_area": {
+      "question_template": "What is the area of {room_name}?"
+    },
+    "room_type": {
+      "question_template": "What type of {room_name} is?"
+    },
+    "room_function": {
+      "question_template": "What is {room_name} used for?"
+    },
+    "room_shape": {
+      "question_template": "What is the shape of {room_name}?"
+    },
+    "scene_room_types": {
+      "question_template": "What types of rooms are in this scene?"
+    },
+    "room_type_count": {
+      "question_template": "How many {room_type} are there in this scene?"
+    },
+    "room_connectivity_pair": {
+      "question_template": "Which room pairs are directly connected?"
+    }
+  }
+}
